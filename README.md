@@ -1,21 +1,25 @@
 # Refactoring Code
 
-**The reason for this project was to make the website more accessible without compramising the CSS codes.**
+## **Project Summary**
 
-**I've notice that the orginial html had a lot of div's. My goal was to change all the div's 
-Semantic Elements. Such as,**
+*As a developer, I was asked by an established company to make their website more accessible for their users.*
 
-* **Header**
-* **Nav**
-* **Section**
-* **Summary**
-* **Footer**
+## **Project Goals.**
 
-_This allowed the coding to be much cleaner and allows any other developer understand what is being coded._
+* Make sure all of the navagations links are working properly.
+* Make sure all of photos have descritions if page does not load.
+* Make sure all of the proper elements were used for the proper sections.
+* Make sure all Css codes are not repetative.
 
-This is a great resourse for Semantic Elements: https://www.w3schools.com/html/html5_semantic_elements.asp
+## **Website**
 
-## CSS Styles
+![Screenshot 1](assets/images/01-html-css-git-homework-demo.png)
 
-**I also noticed in css styles that a lot of the coding was repeative.
-I was able to condience certian sections with the same style into one code.**
+## **Recourses**
+[ Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+[My Github](https://katherineyoguez.github.io/refactoring-code/)
+
+### _Contact_
+
+Email: Katherinecarlotayoguez@gmail.com
